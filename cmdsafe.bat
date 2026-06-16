@@ -1,3 +1,4 @@
+cmd
 @echo off
 title Command Prompt (Safety Gear Mode)
 echo To learn more about command prompt safe mode, type cmdsafehlp. Go online for more details.
